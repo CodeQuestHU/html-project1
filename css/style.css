@@ -1,0 +1,21 @@
+--root{
+    background-color: #717171;
+}
+
+
+.main-h1{
+ text-align: center;
+ margin: auto;
+ align-content: center;
+ font-family: Sofia;
+}
+
+.front-page{
+    text-align: center;
+    margin: auto;
+    align-items: center;
+    }
+
+.secondary-background{
+    background-color: #ffffff;
+}
